@@ -7,11 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/naazif__" target="blank"><img src="https://img.shields.io/twitter/follow/naazif__?logo=twitter&style=for-the-badge" alt="naazif__" /></a> </p>
 
-- 🔭 I’m currently working on **Business Management System**
+- 🔭 I’m currently working as **Software Developer**
 
 - 💬 Ask me about **Laravel, Javascript, React**
 
-- 📫 How to reach me **nazifabdul@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
