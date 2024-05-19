@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working as **Software Developer**
 
-- 💬 Ask me about **Laravel, Javascript, React**
+- 💬 Interested in **Laravel, Javascript, React**
 
 
 <h3 align="left">Connect with me:</h3>
